@@ -9,4 +9,5 @@ as a messy beginning of learning something new.
 While I may not have updated this particular space much recently, I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/jodiepdm), and ask me 
 about my current projects, which may not always be strictly coding / so Github-centric.  
 
-![CollaborationTeamworkGIF](https://github.com/user-attachments/assets/04a57757-25a6-4618-b812-985a5bd372a7)
+![SquishiverseSquishilandGIF](https://github.com/user-attachments/assets/ad649bd8-c14a-4d38-a4a5-a57cc9af9f95)
+
