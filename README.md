@@ -7,8 +7,9 @@ Why would I not delete them? Because it is work completed and time accounted for
 as a messy beginning of learning something new.
 
 While I may not have updated this particular space much recently, I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/jodiepdm), and ask me 
-about my current projects, which may not always be strictly coding / so Github-centric.  
+about my current projects, which may not always be strictly coding / so Github-centric as I explore Power BI and Tableau as well.  
 
 ![SquishiverseSquishilandGIF](https://github.com/user-attachments/assets/ad649bd8-c14a-4d38-a4a5-a57cc9af9f95)
+
 
 
